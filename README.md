@@ -1,2 +1,14 @@
 # proyecto-SMR2_tarde
-iremos subiendo los proyectos de SMR2_tarde
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primer Despliegue en Vercel</title>
+</head>
+<body>
+    <h1>¡Hola Mundo!</h1>
+    <p>Esta es mi primera página web desplegada en Vercel siguiendo las instrucciones.</p>
+    <p>¡Tarea completada!</p>
+</body>
+</html>
