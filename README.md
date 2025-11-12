@@ -9,6 +9,5 @@
 <body>
     <h1>¡Hola Mundo!</h1>
     <p>Esta es mi primera página web desplegada en Vercel siguiendo las instrucciones.</p>
-    <p>¡Tarea completada!</p>
 </body>
 </html>
